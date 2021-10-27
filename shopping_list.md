@@ -4,4 +4,3 @@ mango
 chips
 banana
 cheese
-cake
