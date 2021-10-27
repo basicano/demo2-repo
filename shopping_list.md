@@ -2,6 +2,6 @@
 
 mango 
 chips
-coffee
 banana
 cheese
+cake
