@@ -2,7 +2,8 @@
 
 mango 
 chips
-salsa
+ketchup
+fries
 bread
 butter
 Hello I made this change.
